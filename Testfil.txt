@@ -1,4 +1,3 @@
-SOS.Produktfamilj	Medarbetare.Medarbetargrupp	SOS.Ärendenr	Tidsåtgång (min)
 	Support - First Line		5
 Lime Go	Support - First Line	212153	5
 Lime Field	Support - First Line	212041	5
